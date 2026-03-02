@@ -13,4 +13,6 @@ public interface EmployeeService {
 	List<EmployeeVO> getEmployeeByName(String name);
 	List<EmployeeVO> getEmployeeByType(String type);
 	List<EmployeeVO> getAllEmployees();
+	void deleteEmployeeById(Integer id);
+	EmployeeVO updateEmployee(Integer id,EmployeeModel employee);
 }

@@ -817,3 +817,711 @@ In getEmployeeByType Method
 2026-03-03T01:12:58.899+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
 2026-03-03T01:12:58.900+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
 2026-03-03T01:13:00.119+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.269 seconds (process running for 1476.738)
+2026-03-03T01:13:17.844+05:30  INFO 26260 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 26260 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:13:17.849+05:30 DEBUG 26260 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:13:17.850+05:30  INFO 26260 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:13:28.069+05:30  INFO 26260 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 11.047 seconds (process running for 12.468)
+2026-03-03T01:13:28.258+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T01:13:29.882+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T01:13:30.883+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T01:13:35.200+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-4] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T01:13:52.746+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-5] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T01:13:56.887+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-6] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T01:14:04.895+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-7] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T01:14:12.714+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-8] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T01:14:19.490+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-9] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T01:14:21.160+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-10] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T01:14:22.724+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T01:14:27.757+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T01:14:37.806+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T01:14:44.295+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-4] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T01:14:49.126+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-5] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByCity Method
+2026-03-03T01:14:56.259+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-6] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByCity Method
+2026-03-03T01:15:01.149+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-7] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByName Method
+2026-03-03T01:15:04.634+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-8] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByName Method
+2026-03-03T01:15:09.170+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-9] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByType Method
+2026-03-03T01:15:12.526+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-10] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByType Method
+2026-03-03T01:15:21.018+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByType Method
+2026-03-03T01:15:42.759+05:30  INFO 26260 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In getAllEmployees Method
+2026-03-03T01:38:09.080+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:38:09.085+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:38:09.086+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:38:20.044+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 12.037 seconds (process running for 13.2)
+2026-03-03T01:38:20.403+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In getAllEmployees Method
+2026-03-03T01:40:13.737+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:40:13.738+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:40:13.738+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:40:15.567+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.891 seconds (process running for 128.725)
+2026-03-03T01:40:18.114+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:40:18.114+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:40:18.115+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:40:19.254+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.192 seconds (process running for 132.412)
+2026-03-03T01:40:37.194+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:40:37.195+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:40:37.196+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:40:38.407+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.272 seconds (process running for 151.564)
+2026-03-03T01:40:52.184+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:40:52.185+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:40:52.185+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:40:53.160+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.021 seconds (process running for 166.317)
+2026-03-03T01:41:26.357+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:41:26.358+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:41:26.359+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:41:27.485+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.171 seconds (process running for 200.642)
+2026-03-03T01:42:22.064+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:42:22.065+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:42:22.065+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:42:23.086+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.065 seconds (process running for 256.243)
+2026-03-03T01:43:11.372+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:43:11.372+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:43:11.372+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:43:12.271+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 0.939 seconds (process running for 305.428)
+2026-03-03T01:43:14.806+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:43:14.807+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:43:14.809+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:43:15.620+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 0.851 seconds (process running for 308.777)
+2026-03-03T01:45:22.526+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:45:22.526+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:45:22.526+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:45:23.401+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 0.912 seconds (process running for 436.558)
+2026-03-03T01:47:20.696+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In deleteEmployeeById Method
+2026-03-03T01:53:51.843+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:53:51.844+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:53:51.844+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:53:53.026+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T01:54:55.526+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:54:55.527+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:54:55.527+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:54:56.352+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T01:57:31.324+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:57:31.325+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:57:31.325+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:57:32.056+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T01:57:34.595+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:57:34.595+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:57:34.596+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:57:35.331+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T01:58:06.384+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:58:06.384+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:58:06.385+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:58:07.080+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T01:59:06.648+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:59:06.649+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:59:06.649+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:59:07.361+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T02:01:33.720+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T02:01:33.720+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T02:01:33.720+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T02:01:34.485+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T02:02:41.314+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T02:02:41.314+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T02:02:41.315+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T02:02:41.994+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T02:03:14.178+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T02:03:14.179+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T02:03:14.179+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T02:03:14.927+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T02:04:31.438+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T02:04:31.439+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T02:04:31.439+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T02:04:32.148+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T02:04:38.737+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T02:04:38.738+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T02:04:38.738+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T02:04:39.486+05:30 ERROR 11536 --- [sb_employee_app] [restartedMain] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/webmvc/autoconfigure/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1817) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:603) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:525) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:333) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:371) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:196) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.instantiateSingleton(DefaultListableBeanFactory.java:1218) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingleton(DefaultListableBeanFactory.java:1184) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:1121) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:994) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:621) ~[spring-context-7.0.5.jar:7.0.5]
+	at org.springframework.boot.web.server.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-web-server-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:756) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:445) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:321) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1365) ~[spring-boot-4.0.3.jar:4.0.3]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1354) ~[spring-boot-4.0.3.jar:4.0.3]
+	at com.rohan.SbEmployeeAppApplication.main(SbEmployeeAppApplication.java:12) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:52) ~[spring-boot-devtools-4.0.3.jar:4.0.3]
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'employeeApi' method 
+com.rohan.rest.api.EmployeeApi#updateEmployee(Integer, EmployeeModel)
+to {POST [/emp], consumes [application/json], produces [application/json]}: There is already 'employeeApi' bean method
+com.rohan.rest.api.EmployeeApi#addEmployee(EmployeeModel[]) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:646) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:606) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:327) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:459) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:80) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$1(AbstractHandlerMethodMapping.java:294) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:987) ~[na:na]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:292) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:261) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:220) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:208) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:158) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1864) ~[spring-beans-7.0.5.jar:7.0.5]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1813) ~[spring-beans-7.0.5.jar:7.0.5]
+	... 21 common frames omitted
+
+2026-03-03T02:06:41.550+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 11536 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T02:06:41.550+05:30 DEBUG 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T02:06:41.551+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T02:06:42.316+05:30  INFO 11536 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 0.795 seconds (process running for 1715.474)
+2026-03-03T02:06:56.164+05:30  INFO 8452 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 8452 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T02:06:56.168+05:30 DEBUG 8452 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T02:06:56.170+05:30  INFO 8452 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T02:07:05.883+05:30 ERROR 8452 --- [sb_employee_app] [restartedMain] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 2222 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 2222 or configure this application to listen on another port.
+
+2026-03-03T02:07:08.243+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T02:07:12.491+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T02:07:17.882+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-4] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T02:07:23.179+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-7] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T02:07:27.473+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T02:07:33.441+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-8] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T02:07:38.051+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-10] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T02:07:46.994+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-6] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByCity Method
+2026-03-03T02:07:50.736+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-9] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByCity Method
+2026-03-03T02:07:56.197+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByName Method
+2026-03-03T02:07:59.037+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-5] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByName Method
+2026-03-03T02:08:05.685+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByType Method
+2026-03-03T02:08:10.669+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-4] com.rohan.rest.api.EmployeeApi           : 
+In getAllEmployees Method
+2026-03-03T02:08:24.904+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-7] com.rohan.rest.api.EmployeeApi           : 
+In deleteEmployeeById Method
+2026-03-03T02:08:29.447+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In getAllEmployees Method
+2026-03-03T02:10:05.362+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-6] com.rohan.rest.api.EmployeeApi           : In updateEmployee Method
+2026-03-03T02:10:11.838+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-9] com.rohan.rest.api.EmployeeApi           : 
+In getAllEmployees Method
+2026-03-03T02:10:22.524+05:30  INFO 11536 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : In updateEmployee Method

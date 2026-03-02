@@ -126,4 +126,26 @@ public class EmployeeServiceImpl implements EmployeeService {
 		        .map(model -> new EmployeeVO(model.getEmpId(), model.getEmpName(), model.getEmpCity(),model.getEmpType()))
 		        .toList();
 	}
+
+	@Override
+	public void deleteEmployeeById(Integer id) {
+		boolean check=employeeDao.employeeExistById(id);
+		if(check) {
+			employeeDao.deleteEmployeeById(id);
+		}else {
+			throw(new EmployeeNotFoundException("Employee not found with id: " + id));
+		}
+	}
+
+	@Override
+	public EmployeeVO updateEmployee(Integer id, EmployeeModel employee) {
+		boolean check=employeeDao.employeeExistById(id);
+		if(!check) {
+			throw(new EmployeeNotFoundException("Employee not found with id: " + id+" to update details"));
+		}else {
+			EmployeeEntity emp=modelMapper.map(employee,EmployeeEntity.class);
+			employeeDao.updateEmployee(emp);
+			return getEmployeeById(id);
+		}
+	}
 }

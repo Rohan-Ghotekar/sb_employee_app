@@ -48,6 +48,14 @@ public class EmployeeDaoImpl implements EmployeeDao {
 	public List<EmployeeEntity> getAllEmployees() {
 		return repository.findAll();
 	}
+	@Override
+	public void deleteEmployeeById(Integer empId) {
+		repository.deleteById(empId);
+	}
+	@Override
+	public void updateEmployee(EmployeeEntity employee) {
+		repository.save(employee);
+	}
 	
 	
 }
