@@ -1,0 +1,819 @@
+2026-03-03T00:02:51.112+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 31544 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:02:51.138+05:30 DEBUG 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:02:51.138+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:02:53.267+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 2.286 seconds (process running for 2448.133)
+2026-03-03T00:02:54.768+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 31544 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:02:54.769+05:30 DEBUG 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:02:54.769+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:02:55.938+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.208 seconds (process running for 2450.805)
+2026-03-03T00:03:16.087+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 31544 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:03:16.088+05:30 DEBUG 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:03:16.088+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:03:17.200+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.157 seconds (process running for 2472.067)
+2026-03-03T00:03:36.297+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 31544 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:03:36.297+05:30 DEBUG 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:03:36.297+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:03:37.438+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.182 seconds (process running for 2492.305)
+2026-03-03T00:05:31.870+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 31544 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:05:31.871+05:30 DEBUG 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:05:31.871+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:05:34.478+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 2.722 seconds (process running for 2609.345)
+2026-03-03T00:06:51.451+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 31544 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:06:51.452+05:30 DEBUG 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:06:51.452+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:06:52.645+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.238 seconds (process running for 2687.511)
+2026-03-03T00:08:31.304+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 31544 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:08:31.304+05:30 DEBUG 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:08:31.305+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:08:32.420+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.155 seconds (process running for 2787.286)
+2026-03-03T00:11:20.887+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 31544 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:11:20.888+05:30 DEBUG 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:11:20.888+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:11:22.182+05:30  INFO 31544 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.338 seconds (process running for 2957.049)
+2026-03-03T00:11:39.990+05:30 ERROR 31544 --- [sb_employee_app] [http-nio-2222-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.modelmapper.MappingException: ModelMapper mapping errors:
+
+1) Failed to instantiate instance of destination com.rohan.model.EmployeeVO. Ensure that com.rohan.model.EmployeeVO has a non-private no-argument constructor.
+
+1 error] with root cause
+
+java.lang.NoSuchMethodException: com.rohan.model.EmployeeVO.<init>()
+	at java.base/java.lang.Class.getConstructor0(Class.java:3833) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredConstructor(Class.java:3004) ~[na:na]
+	at org.modelmapper.internal.MappingEngineImpl.instantiate(MappingEngineImpl.java:359) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.createDestination(MappingEngineImpl.java:374) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.typeMap(MappingEngineImpl.java:153) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.map(MappingEngineImpl.java:121) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.map(MappingEngineImpl.java:78) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.ModelMapper.mapInternal(ModelMapper.java:589) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.ModelMapper.map(ModelMapper.java:422) ~[modelmapper-3.2.6.jar:na]
+	at com.rohan.service.EmployeeServiceImpl.lambda$3(EmployeeServiceImpl.java:60) ~[classes/:na]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:215) ~[na:na]
+	at java.base/java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:722) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:636) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:291) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:656) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:662) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:667) ~[na:na]
+	at com.rohan.service.EmployeeServiceImpl.getEmployeeByCityAndName(EmployeeServiceImpl.java:60) ~[classes/:na]
+	at com.rohan.rest.api.EmployeeApi.getEmployeeByNameAndCity(EmployeeApi.java:53) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:892) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:622) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:110) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1779) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[na:na]
+
+2026-03-03T00:12:14.126+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 19952 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:12:14.131+05:30 DEBUG 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:12:14.132+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:12:22.559+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 9.278 seconds (process running for 10.716)
+2026-03-03T00:12:33.039+05:30 ERROR 19952 --- [sb_employee_app] [http-nio-2222-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.modelmapper.MappingException: ModelMapper mapping errors:
+
+1) Failed to instantiate instance of destination com.rohan.model.EmployeeVO. Ensure that com.rohan.model.EmployeeVO has a non-private no-argument constructor.
+
+1 error] with root cause
+
+java.lang.NoSuchMethodException: com.rohan.model.EmployeeVO.<init>()
+	at java.base/java.lang.Class.getConstructor0(Class.java:3833) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredConstructor(Class.java:3004) ~[na:na]
+	at org.modelmapper.internal.MappingEngineImpl.instantiate(MappingEngineImpl.java:359) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.createDestination(MappingEngineImpl.java:374) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.typeMap(MappingEngineImpl.java:153) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.map(MappingEngineImpl.java:121) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.map(MappingEngineImpl.java:78) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.ModelMapper.mapInternal(ModelMapper.java:589) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.ModelMapper.map(ModelMapper.java:422) ~[modelmapper-3.2.6.jar:na]
+	at com.rohan.service.EmployeeServiceImpl.lambda$3(EmployeeServiceImpl.java:60) ~[classes/:na]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:215) ~[na:na]
+	at java.base/java.util.AbstractList$RandomAccessSpliterator.forEachRemaining(AbstractList.java:722) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:570) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:560) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:636) ~[na:na]
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:291) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:656) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:662) ~[na:na]
+	at java.base/java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:667) ~[na:na]
+	at com.rohan.service.EmployeeServiceImpl.getEmployeeByCityAndName(EmployeeServiceImpl.java:60) ~[classes/:na]
+	at com.rohan.rest.api.EmployeeApi.getEmployeeByNameAndCity(EmployeeApi.java:53) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:892) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:622) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:110) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1779) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[na:na]
+
+2026-03-03T00:14:26.007+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 19952 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:14:26.008+05:30 DEBUG 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:14:26.009+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:14:28.249+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 2.395 seconds (process running for 136.406)
+2026-03-03T00:15:31.688+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 19952 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:15:31.689+05:30 DEBUG 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:15:31.689+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:15:33.116+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.486 seconds (process running for 201.273)
+2026-03-03T00:16:30.601+05:30  INFO 19952 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T00:16:30.700+05:30 ERROR 19952 --- [sb_employee_app] [http-nio-2222-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.modelmapper.MappingException: ModelMapper mapping errors:
+
+1) Failed to instantiate instance of destination com.rohan.model.EmployeeVO. Ensure that com.rohan.model.EmployeeVO has a non-private no-argument constructor.
+
+1 error] with root cause
+
+java.lang.NoSuchMethodException: com.rohan.model.EmployeeVO.<init>()
+	at java.base/java.lang.Class.getConstructor0(Class.java:3833) ~[na:na]
+	at java.base/java.lang.Class.getDeclaredConstructor(Class.java:3004) ~[na:na]
+	at org.modelmapper.internal.MappingEngineImpl.instantiate(MappingEngineImpl.java:359) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.createDestination(MappingEngineImpl.java:374) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.typeMap(MappingEngineImpl.java:153) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.map(MappingEngineImpl.java:121) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.internal.MappingEngineImpl.map(MappingEngineImpl.java:78) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.ModelMapper.mapInternal(ModelMapper.java:589) ~[modelmapper-3.2.6.jar:na]
+	at org.modelmapper.ModelMapper.map(ModelMapper.java:422) ~[modelmapper-3.2.6.jar:na]
+	at com.rohan.service.EmployeeServiceImpl.getEmployeeById(EmployeeServiceImpl.java:46) ~[classes/:na]
+	at com.rohan.rest.api.EmployeeApi.getEmployeeById(EmployeeApi.java:47) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:892) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:622) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:110) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1779) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[na:na]
+
+2026-03-03T00:17:37.585+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 19952 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:17:37.586+05:30 DEBUG 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:17:37.586+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:17:39.225+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.705 seconds (process running for 327.382)
+2026-03-03T00:17:40.495+05:30  INFO 19952 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T00:17:47.577+05:30  INFO 19952 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T00:20:11.421+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 19952 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:20:11.421+05:30 DEBUG 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:20:11.423+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:20:12.751+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.381 seconds (process running for 480.908)
+2026-03-03T00:20:49.414+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 19952 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:20:49.415+05:30 DEBUG 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:20:49.415+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:20:50.610+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.243 seconds (process running for 518.767)
+2026-03-03T00:22:01.322+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 19952 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:22:01.323+05:30 DEBUG 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:22:01.323+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:22:02.503+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.222 seconds (process running for 590.66)
+2026-03-03T00:22:47.476+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 19952 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:22:47.477+05:30 DEBUG 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:22:47.477+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:22:48.764+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.331 seconds (process running for 636.921)
+2026-03-03T00:25:32.463+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 19952 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:25:32.464+05:30 DEBUG 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:25:32.464+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:25:33.701+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.281 seconds (process running for 801.859)
+2026-03-03T00:26:27.896+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 19952 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:26:27.897+05:30 DEBUG 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:26:27.898+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:26:29.509+05:30  INFO 19952 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.674 seconds (process running for 857.666)
+2026-03-03T00:27:04.887+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:27:04.891+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:27:04.893+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:27:14.584+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 10.537 seconds (process running for 11.958)
+2026-03-03T00:29:48.018+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:29:48.018+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:29:48.018+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:29:49.454+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.486 seconds (process running for 166.829)
+2026-03-03T00:30:00.065+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:30:00.065+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:30:00.066+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:30:01.223+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.211 seconds (process running for 178.598)
+2026-03-03T00:30:31.624+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:30:31.625+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:30:31.625+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:30:32.847+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.276 seconds (process running for 210.222)
+2026-03-03T00:30:40.533+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:30:40.534+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:30:40.534+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:30:41.640+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.148 seconds (process running for 219.014)
+2026-03-03T00:31:47.170+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:31:47.170+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:31:47.171+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:31:48.265+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.138 seconds (process running for 285.64)
+2026-03-03T00:34:51.041+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:34:51.042+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:34:51.042+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:34:53.043+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 2.071 seconds (process running for 470.417)
+2026-03-03T00:35:00.722+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:35:00.723+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:35:00.723+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:35:01.829+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.152 seconds (process running for 479.203)
+2026-03-03T00:35:07.491+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:35:07.493+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:35:07.493+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:35:08.597+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.146 seconds (process running for 485.972)
+2026-03-03T00:35:18.427+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:35:18.428+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:35:18.428+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:35:19.522+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.14 seconds (process running for 496.897)
+2026-03-03T00:36:51.036+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15092 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:36:51.037+05:30 DEBUG 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:36:51.037+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:36:52.659+05:30  INFO 15092 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.668 seconds (process running for 590.034)
+2026-03-03T00:36:59.815+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 17232 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:36:59.819+05:30 DEBUG 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:36:59.821+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:37:09.294+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 10.298 seconds (process running for 11.725)
+2026-03-03T00:38:42.638+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 17232 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:38:42.639+05:30 DEBUG 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:38:42.639+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:38:44.082+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.496 seconds (process running for 106.511)
+2026-03-03T00:38:49.194+05:30  INFO 17232 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:39:03.192+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 17232 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:39:03.192+05:30 DEBUG 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:39:03.192+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:39:04.724+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.592 seconds (process running for 127.154)
+2026-03-03T00:39:11.063+05:30  INFO 17232 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:39:12.337+05:30  INFO 17232 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:39:13.148+05:30  INFO 17232 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:39:13.322+05:30  INFO 17232 --- [sb_employee_app] [http-nio-2222-exec-4] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:39:13.495+05:30  INFO 17232 --- [sb_employee_app] [http-nio-2222-exec-5] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:39:13.714+05:30  INFO 17232 --- [sb_employee_app] [http-nio-2222-exec-6] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:45:21.368+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 17232 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:45:21.369+05:30 DEBUG 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:45:21.369+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:45:23.208+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.978 seconds (process running for 505.638)
+2026-03-03T00:46:10.182+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 17232 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:46:10.182+05:30 DEBUG 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:46:10.183+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:46:11.378+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.24 seconds (process running for 553.809)
+2026-03-03T00:46:24.240+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 17232 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:46:24.241+05:30 DEBUG 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:46:24.241+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:46:25.480+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.29 seconds (process running for 567.911)
+2026-03-03T00:46:46.683+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 17232 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:46:46.684+05:30 DEBUG 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:46:46.684+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:46:47.953+05:30  INFO 17232 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.332 seconds (process running for 590.382)
+2026-03-03T00:47:17.454+05:30  INFO 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 16676 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:47:17.459+05:30 DEBUG 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:47:17.460+05:30  INFO 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:47:28.354+05:30  INFO 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 11.726 seconds (process running for 13.101)
+2026-03-03T00:47:29.521+05:30  INFO 16676 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:47:33.359+05:30  INFO 16676 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:47:47.241+05:30  INFO 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 16676 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:47:47.242+05:30 DEBUG 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:47:47.243+05:30  INFO 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:47:48.551+05:30  INFO 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.357 seconds (process running for 33.298)
+2026-03-03T00:47:51.920+05:30  INFO 16676 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:47:53.289+05:30  INFO 16676 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:47:54.280+05:30  INFO 16676 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:48:13.869+05:30  INFO 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 16676 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:48:13.869+05:30 DEBUG 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:48:13.870+05:30  INFO 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:48:15.440+05:30  INFO 16676 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.628 seconds (process running for 60.187)
+2026-03-03T00:48:15.447+05:30  INFO 16676 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:48:16.755+05:30  INFO 16676 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:48:25.446+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:48:25.450+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:48:25.451+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:48:35.121+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 10.437 seconds (process running for 11.739)
+2026-03-03T00:48:35.511+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:48:38.275+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:48:39.547+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:48:40.651+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-4] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:50:06.373+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:50:06.373+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:50:06.374+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:50:07.913+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.601 seconds (process running for 104.532)
+2026-03-03T00:50:10.380+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:50:10.426+05:30 ERROR 15748 --- [sb_employee_app] [http-nio-2222-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: com.rohan.exception.EmployeeNotAddedException: No employees were added.] with root cause
+
+com.rohan.exception.EmployeeNotAddedException: No employees were added.
+	at com.rohan.service.EmployeeServiceImpl.addEmployees(EmployeeServiceImpl.java:47) ~[classes/:na]
+	at com.rohan.rest.api.EmployeeApi.addEmployee(EmployeeApi.java:40) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:110) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1779) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[na:na]
+
+2026-03-03T00:50:15.703+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:50:15.726+05:30 ERROR 15748 --- [sb_employee_app] [http-nio-2222-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: com.rohan.exception.EmployeeNotAddedException: No employees were added.] with root cause
+
+com.rohan.exception.EmployeeNotAddedException: No employees were added.
+	at com.rohan.service.EmployeeServiceImpl.addEmployees(EmployeeServiceImpl.java:47) ~[classes/:na]
+	at com.rohan.rest.api.EmployeeApi.addEmployee(EmployeeApi.java:40) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:110) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1779) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[na:na]
+
+2026-03-03T00:53:06.468+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:53:06.470+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:53:06.470+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:53:08.324+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.925 seconds (process running for 284.943)
+2026-03-03T00:53:17.538+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:53:17.599+05:30 ERROR 15748 --- [sb_employee_app] [http-nio-2222-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: com.rohan.exception.EmployeeNotAddedException: No employees were added. All employees already exist.] with root cause
+
+com.rohan.exception.EmployeeNotAddedException: No employees were added. All employees already exist.
+	at com.rohan.service.EmployeeServiceImpl.addEmployees(EmployeeServiceImpl.java:42) ~[classes/:na]
+	at com.rohan.rest.api.EmployeeApi.addEmployee(EmployeeApi.java:40) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:110) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1779) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[na:na]
+
+2026-03-03T00:53:19.478+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:53:19.492+05:30 ERROR 15748 --- [sb_employee_app] [http-nio-2222-exec-2] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: com.rohan.exception.EmployeeNotAddedException: No employees were added. All employees already exist.] with root cause
+
+com.rohan.exception.EmployeeNotAddedException: No employees were added. All employees already exist.
+	at com.rohan.service.EmployeeServiceImpl.addEmployees(EmployeeServiceImpl.java:42) ~[classes/:na]
+	at com.rohan.rest.api.EmployeeApi.addEmployee(EmployeeApi.java:40) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:110) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1779) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[na:na]
+
+2026-03-03T00:53:21.479+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:53:21.494+05:30 ERROR 15748 --- [sb_employee_app] [http-nio-2222-exec-3] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: com.rohan.exception.EmployeeNotAddedException: No employees were added. All employees already exist.] with root cause
+
+com.rohan.exception.EmployeeNotAddedException: No employees were added. All employees already exist.
+	at com.rohan.service.EmployeeServiceImpl.addEmployees(EmployeeServiceImpl.java:42) ~[classes/:na]
+	at com.rohan.rest.api.EmployeeApi.addEmployee(EmployeeApi.java:40) ~[classes/:na]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[na:na]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[na:na]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:252) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:184) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:934) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:853) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:86) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:963) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:866) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1000) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:903) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:649) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:874) ~[spring-webmvc-7.0.5.jar:7.0.5]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:710) ~[tomcat-embed-core-11.0.18.jar:6.1]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:128) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.ServerHttpObservationFilter.doFilterInternal(ServerHttpObservationFilter.java:110) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:199) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-7.0.5.jar:7.0.5]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:107) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:165) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:77) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:492) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:113) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:341) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:397) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:903) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1779) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:946) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:480) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:57) ~[tomcat-embed-core-11.0.18.jar:11.0.18]
+	at java.base/java.lang.Thread.run(Thread.java:1575) ~[na:na]
+
+2026-03-03T00:53:32.483+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-4] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:54:39.861+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:54:39.861+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:54:39.862+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:54:41.448+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.648 seconds (process running for 378.066)
+2026-03-03T00:55:42.928+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T00:55:42.928+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T00:55:42.928+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T00:55:44.073+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.188 seconds (process running for 440.691)
+2026-03-03T00:55:47.073+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:56:05.206+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T00:56:23.620+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-4] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T01:00:11.183+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:00:11.184+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:00:11.184+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:00:13.043+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.952 seconds (process running for 709.662)
+2026-03-03T01:00:52.760+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:00:52.760+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:00:52.761+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:00:53.862+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.143 seconds (process running for 750.481)
+2026-03-03T01:01:12.968+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:01:12.968+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:01:12.969+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:01:14.116+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.195 seconds (process running for 770.735)
+2026-03-03T01:01:15.638+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:01:15.638+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:01:15.639+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:01:16.768+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.171 seconds (process running for 773.387)
+2026-03-03T01:01:23.456+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:01:23.457+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:01:23.457+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:01:24.618+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.206 seconds (process running for 781.236)
+2026-03-03T01:01:41.643+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:01:41.643+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:01:41.644+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:01:42.793+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.193 seconds (process running for 799.412)
+2026-03-03T01:02:26.764+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:02:26.765+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:02:26.765+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:02:27.859+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.137 seconds (process running for 844.478)
+2026-03-03T01:02:46.956+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:02:46.957+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:02:46.957+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:02:48.107+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.192 seconds (process running for 864.725)
+2026-03-03T01:03:09.268+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:03:09.268+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:03:09.269+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:03:10.339+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.108 seconds (process running for 886.957)
+2026-03-03T01:03:43.938+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:03:43.938+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:03:43.939+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:03:45.230+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.347 seconds (process running for 921.849)
+2026-03-03T01:03:50.890+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:03:50.890+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:03:50.890+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:03:51.956+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.106 seconds (process running for 928.575)
+2026-03-03T01:04:10.019+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:04:10.020+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:04:10.020+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:04:11.159+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.18 seconds (process running for 947.777)
+2026-03-03T01:04:28.174+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:04:28.175+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:04:28.175+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:04:29.237+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.107 seconds (process running for 965.856)
+2026-03-03T01:04:54.574+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:04:54.575+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:04:54.575+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:04:55.668+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.136 seconds (process running for 992.286)
+2026-03-03T01:06:45.750+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:06:45.751+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:06:45.751+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:06:47.044+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.334 seconds (process running for 1103.662)
+2026-03-03T01:07:17.997+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T01:07:42.911+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In addEmployee Method
+2026-03-03T01:08:02.640+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T01:08:07.570+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-4] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeById Method
+2026-03-03T01:08:12.672+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-5] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T01:08:17.821+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-6] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByNameAndCity Method
+2026-03-03T01:08:22.840+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-7] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByCity Method
+2026-03-03T01:08:28.220+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-8] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByCity Method
+2026-03-03T01:08:40.626+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-9] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByCity Method
+2026-03-03T01:08:46.506+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-10] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByName Method
+2026-03-03T01:08:52.257+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-1] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByName Method
+2026-03-03T01:09:14.514+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-2] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByType Method
+2026-03-03T01:09:23.459+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-3] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByType Method
+2026-03-03T01:09:27.704+05:30  INFO 15748 --- [sb_employee_app] [http-nio-2222-exec-4] com.rohan.rest.api.EmployeeApi           : 
+In getEmployeeByType Method
+2026-03-03T01:10:52.564+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:10:52.564+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:10:52.565+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:10:54.293+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.795 seconds (process running for 1350.912)
+2026-03-03T01:11:15.572+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:11:15.572+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:11:15.572+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:11:16.997+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.509 seconds (process running for 1373.615)
+2026-03-03T01:12:15.366+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:12:15.367+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:12:15.367+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:12:16.443+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.115 seconds (process running for 1433.061)
+2026-03-03T01:12:36.584+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:12:36.584+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:12:36.585+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:12:37.713+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.166 seconds (process running for 1454.331)
+2026-03-03T01:12:58.899+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Starting SbEmployeeAppApplication using Java 23.0.2 with PID 15748 (C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app\target\classes started by rohan in C:\GitHub\Pratiti Training\Spring_Demo\sb_employee_app)
+2026-03-03T01:12:58.899+05:30 DEBUG 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Running with Spring Boot v4.0.3, Spring v7.0.5
+2026-03-03T01:12:58.900+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : No active profile set, falling back to 1 default profile: "default"
+2026-03-03T01:13:00.119+05:30  INFO 15748 --- [sb_employee_app] [restartedMain] com.rohan.SbEmployeeAppApplication       : Started SbEmployeeAppApplication in 1.269 seconds (process running for 1476.738)
